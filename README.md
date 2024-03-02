@@ -129,7 +129,7 @@ do
 done
 ```
 
-### variable scope
+## variable scope
 
 `varaible-scope-in-function.sh`
 ```bash
